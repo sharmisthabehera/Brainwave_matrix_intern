@@ -18,7 +18,7 @@ The SuperStore Sales dataset is a comprehensive collection of transactional data
 
 DATSET INFORMATION:
 
-The dataset contains 9,800 rows and 18 columns. These columns include various attributes such as 'Row ID', 'Order ID', 'Order Date', 'Ship Date', 'Ship Mode', 'Customer ID', 'Customer Name', 'Segment', 'Country', 'City', 'State', 'Postal Code', 'Region', 'Product ID', 'Category', 'Sub-Category', 'Product Name', and 'Sales'. The 'Postal Code' column had some missing values (11 in total), which were filled with 0. The data type of this column was then converted from float to int
+The dataset contains 9,800 rows and 18 columns. These columns include various attributes such as 'Row ID', 'Order ID', 'Order Date', 'Ship Date', 'Ship Mode', 'Customer ID', 'Customer Name', 'Segment', 'Country', 'City', 'State', 'Postal Code', 'Region', 'Product ID', 'Category', 'Sub-Category', 'Product Name', and 'Sales'. The 'Postal Code' column had some missing values (11 in total), which were filled with 0. The data type of this column was then converted from float to int. The dataset has been downloaded from kaggle.
 
 PROJECT STRUCTURE:
 
