@@ -18,7 +18,7 @@ iii) Stemming: Basically reducing words like ‘jumping, jumped, jump’ into it
 
 2. DATA VIZUALIZATION:
 
-Bar plots has been plotted for top 10 positive & negative hastags and pie chart for the percentage of positive and negative sentiments.
+Bar plots has been plotted for top 10 positive & negative hastags for racist/sexist tweets and pie chart for the percentage of positive and negative sentiments.
 
 # Observation:
 
@@ -33,9 +33,7 @@ For Pie chart:
 
 # Conclusion:
 
-Algorithm used is 'Logistic Regression'.
-Accuracy: 95%
+Algorithm used is 'Logistic Regression'.             Accuracy: 95%
 
 # Contact Information:
-Email: sharmisthabehera56@gmail.com
-linkedin: www.linkedin.com/in/sharmistha-behera-b704581b6
+Email: sharmisthabehera56@gmail.com           linkedin: www.linkedin.com/in/sharmistha-behera-b704581b6
