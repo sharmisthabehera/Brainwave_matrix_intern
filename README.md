@@ -20,5 +20,22 @@ iii) Stemming: Basically reducing words like ‘jumping, jumped, jump’ into it
 
 Bar plots has been plotted for top 10 positive & negative hastags and pie chart for the percentage of positive and negative sentiments.
 
-# OBSERVATION:
+# Observation:
 
+For Bar plot: 
+
+We have observed that for top 10 positive hashtags for non racist/sexist tweets, 'love' is the highest around 1550 and 'summer' is the lowest around 400. Then for top 10 negative hashtags for racist/sexist tweets, 'trump' is the highest round 130 and 'hate' is the lowest around 40.
+
+For Pie chart:
+
+93% people have negative sentiments or racist/sexist tweets
+7% people have positive sentiments or non racist/sexist tweets, so we observed that no.of negative sentiments > no.of positive sentiments
+
+# Conclusion:
+
+Algorithm used is 'Logistic Regression'.
+Accuracy: 95%
+
+# Contact Information:
+Email: sharmisthabehera56@gmail.com
+linkedin: www.linkedin.com/in/sharmistha-behera-b704581b6
