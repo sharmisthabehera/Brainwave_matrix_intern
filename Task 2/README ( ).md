@@ -4,7 +4,7 @@
 
 The objective of this task is to detect or judge the sentiment behind the tweets. For the sake of simplicity, we can say a tweet contain both positive and negative tweets i.e., it may be racist or non racist. So, the task is to classify racist or non racist tweets from other tweets.
 
-This dataset is the collection of 31,962 tweets.
+This dataset is a collection of 31,962 tweets.
 
 # Project Strructure:
 
