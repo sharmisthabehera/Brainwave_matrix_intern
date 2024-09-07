@@ -33,7 +33,7 @@ For Pie chart:
 
 # Conclusion:
 
-Algorithm used is 'Logistic Regression'.             Accuracy: 95%
+Algorithm used is 'Logistic Regression'.             Accuracy Score: 95%
 
 # Contact Information:
 Email: sharmisthabehera56@gmail.com           linkedin: www.linkedin.com/in/sharmistha-behera-b704581b6
