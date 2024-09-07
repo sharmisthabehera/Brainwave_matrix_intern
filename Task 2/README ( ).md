@@ -12,9 +12,9 @@ This dataset is a collection of 31,962 tweets.
 
 The dataset is loaded and the most important part is preprocessing the data, so that the model is ready to be used. Since there are a lots of unnecessary parameters 
 in the dataset, so we need to remove it. To remove the unnecessary parameters, I have used the following techniques:
-i) Removing Stop Words: Basically words like this, an, a, the, etc that do not affect the meaning of the tweet
+i) Removing Stop Words: Basically words like this, an, a, the, etc., that do not affect the meaning of the tweet
 ii) Removing Punctuation: ‘,.*!’ and other punctuation marks that are not really needed by the model
-iii) Stemming: Basically reducing words like ‘jumping, jumped, jump’ into its root word(also called stem), which is jump in this case. Since all variations of the root word convey the same meaning, we don’t need each of the word to be converted into different numbers.
+iii) Stemming: Basically reducing words like ‘jumping, jumped, jump’ into its root word (also called stem), which is jump in this case. Since all variations of the root word convey the same meaning, we don’t need each of the word to be converted into different numbers.
 
 2. DATA VIZUALIZATION:
 
