@@ -7,10 +7,10 @@ Created a SuperStore Sales Data Analysis by using Python.
 The SuperStore chain has accumulated a wealth of sales data across various customer segments, products, and regions. Despite its success, the company faces challenges in maximizing its profitability, customer retention, and market penetration. With competition intensifying, it is crucial for SuperStore to gain a deeper understanding of its sales trends, customer behavior, and product performance.
 
 The objective is to analyze the SuperStore dataset to uncover actionable insights that can drive strategic decision-making. The analysis aims to address the following key business questions: 
-i) Customer Segmentation and Loyalty
-ii) Sales Performance and Product Analysis
-iii) Trend Analysis and Market Insights
-iv) Segment-Specific Strategies 
+- Customer Segmentation and Loyalty
+- Sales Performance and Product Analysis
+- Trend Analysis and Market Insights
+- Segment-Specific Strategies 
 
 ### Description:
 
